@@ -3,4 +3,4 @@
 
 
 
-[explore-or-develop](https://github.com/wisdomqin/explore-or-develop)反方
+[explore-or-develop](https://github.com/wisdomqin/explore-or-develop) 的反方
